@@ -1,0 +1,55 @@
+h1,h2,h5{
+    font-family: "Playfair Display",serif;
+    color: #1a1a1a;
+   
+}
+.text-red{
+    color: #FF1616;
+}
+.bg-red{
+    background-color: #FF1616;
+}
+.orenge{
+    color: rgb(255, 87, 0);
+}
+.slide1{
+    background-color: #FEF4F4;
+}
+.indicator{
+    width: 10px !important;
+    height: 10px !important;
+}
+.carausel-h1{
+    font-size: 60px;
+    font-family: "Playfair Display",serif;
+}
+.review{
+    font-size: 12px;
+}
+.custom-btn{
+border: 2px solid #FF1616;
+background: transparent;
+ }
+
+.card1{
+    background-image: url("./components//assets/card1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card2{
+    background-image: url("./components//assets/h1_hero3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+} 
+.bg-l{
+    background-color: #FEF4F4;
+}
+.icon{
+    border: 1px solid rgb(214, 211, 211);
+}
+.icon:hover{
+  background-color: #FF1616;
+  i{
+    color: white !important;
+  }
+}
